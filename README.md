@@ -30,7 +30,7 @@ Setup and Use SSH credential to Copy files on server
 ------------------------
 http://www.shellhacks.com/en/Running-Commands-on-a-Remote-Linux-Server-over-SSH https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2 
 
-http://www.hypexr.org/linux\_scp\_help.php 
+http://www.hypexr.org/linux_scp_help.php 
 
 Install Joomla, Wordpress, Drupal, any CMS on server. 
 ------------------------

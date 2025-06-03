@@ -40,6 +40,8 @@ https://www.siteground.com/tutorials/joomla/how-to-install-joomla.htm
 
 https://www.siteground.com/tutorials/drupal/drupal_installation.htm 
 
+Assignments
+---------
 Design Registration & Login page using HTML5, CSS and apply Validations using javascript. Debug application in browser (HTML, CSS & JavaScript) 
 http://www.w3resource.com/javascript/form/javascript-sample-registration-form-validation.php 
 

@@ -24,7 +24,7 @@ http://www.learn-php.org/
 
 Setup a LAMP Web Server 
 ------------------------
-https://developer.mozilla.org/en-US/Learn/Common_questions/What_is_a_web_server https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ub untu-14-04 
+https://developer.mozilla.org/en-US/Learn/Common_questions/What_is_a_web_server https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-14-04 
 
 Setup and Use SSH credential to Copy files on server 
 ------------------------

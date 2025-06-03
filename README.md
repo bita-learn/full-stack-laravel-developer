@@ -8,7 +8,7 @@ https://dev.opera.com/articles/http-lets-get-it-on/
 
 **Linux Command Line Basics** 
 
-http://linuxcommand.org/learning_the_shell.php 
+[http://linuxcommand.org/learning_the_shell.php ](https://linuxcommand.org/lc3_learning_the_shell.php)
 
 http://www.learnshell.org/ 
 

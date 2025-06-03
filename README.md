@@ -1,6 +1,6 @@
 **How the web works ?** 
 
-https://developer.mozilla.org/en-US/Learn/Common\_questions 
+https://developer.mozilla.org/en-US/Learn/Common_questions 
 
 https://dev.opera.com/articles/http-basic-introduction/ 
 
@@ -8,7 +8,7 @@ https://dev.opera.com/articles/http-lets-get-it-on/
 
 **Linux Command Line Basics** 
 
-http://linuxcommand.org/learning\_the\_shell.php 
+http://linuxcommand.org/learning_the_shell.php 
 
 http://www.learnshell.org/ 
 
@@ -24,7 +24,7 @@ http://www.learn-php.org/
 
 Setup a LAMP Web Server 
 ------------------------
-https://developer.mozilla.org/en-US/Learn/Common\_questions/What\_is\_a\_web\_server https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ub untu-14-04 
+https://developer.mozilla.org/en-US/Learn/Common_questions/What_is_a_web_server https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ub untu-14-04 
 
 Setup and Use SSH credential to Copy files on server 
 ------------------------
@@ -34,11 +34,11 @@ http://www.hypexr.org/linux_scp_help.php
 
 Install Joomla, Wordpress, Drupal, any CMS on server. 
 ------------------------
-https://codex.wordpress.org/Installing\_WordPress 
+https://codex.wordpress.org/Installing_WordPress 
 
 https://www.siteground.com/tutorials/joomla/how-to-install-joomla.htm 
 
-https://www.siteground.com/tutorials/drupal/drupal\_installation.htm 
+https://www.siteground.com/tutorials/drupal/drupal_installation.htm 
 
 Design Registration & Login page using HTML5, CSS and apply Validations using javascript. Debug application in browser (HTML, CSS & JavaScript) 
 http://www.w3resource.com/javascript/form/javascript-sample-registration-form-validation.php 

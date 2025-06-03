@@ -1,13 +1,13 @@
-**How the web works ?** 
-
+How the web works ?
+------
 https://developer.mozilla.org/en-US/Learn/Common_questions 
 
 https://dev.opera.com/articles/http-basic-introduction/ 
 
 https://dev.opera.com/articles/http-lets-get-it-on/ 
 
-**Linux Command Line Basics** 
-
+Linux Command Line Basics
+------
 [http://linuxcommand.org/learning_the_shell.php ](https://linuxcommand.org/lc3_learning_the_shell.php)
 
 http://www.learnshell.org/ 
